@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.box{
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid black;
+    height: 10vh;
+    width: 5vh;
+    color: red;
+    background-color: rgb(61, 61, 190);
+}
